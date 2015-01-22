@@ -1,0 +1,4 @@
+D:\原始文档\ProgramExample\C#类库\HawkFileOperation\HawkFileOperation\bin\Debug\HawkFileOperation.dll
+D:\原始文档\ProgramExample\C#类库\HawkFileOperation\HawkFileOperation\bin\Debug\HawkFileOperation.pdb
+D:\原始文档\ProgramExample\C#类库\HawkFileOperation\HawkFileOperation\obj\Debug\HawkFileOperation.dll
+D:\原始文档\ProgramExample\C#类库\HawkFileOperation\HawkFileOperation\obj\Debug\HawkFileOperation.pdb

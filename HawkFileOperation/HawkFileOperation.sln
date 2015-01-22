@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HawkFileOperation", "HawkFileOperation\HawkFileOperation.csproj", "{EC218A80-0563-43BD-B472-DA4CC6F9C566}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC218A80-0563-43BD-B472-DA4CC6F9C566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC218A80-0563-43BD-B472-DA4CC6F9C566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC218A80-0563-43BD-B472-DA4CC6F9C566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC218A80-0563-43BD-B472-DA4CC6F9C566}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

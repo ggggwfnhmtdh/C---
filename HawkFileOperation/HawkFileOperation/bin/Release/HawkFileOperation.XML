@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HawkFileOperation</name>
+    </assembly>
+    <members>
+        <member name="T:HawkFileOperation.HawkClassHexFile">
+            <summary>
+            读取.hex文件
+            </summary>
+        </member>
+        <member name="F:HawkFileOperation.HawkClassHexFile.SourceFilePath">
+            <summary>
+            源文件路径（不带文件名）
+            </summary>
+        </member>
+        <member name="F:HawkFileOperation.HawkClassHexFile.DestinationFilePath">
+            <summary>
+            目的文件路径（不带文件名）
+            </summary>
+        </member>
+        <member name="F:HawkFileOperation.HawkClassHexFile.SourceFilePathWithName">
+            <summary>
+            源文件路径（带文件名）
+            </summary>
+        </member>
+        <member name="F:HawkFileOperation.HawkClassHexFile.DestinationFilePathWithName">
+            <summary>
+            目的文件路径（带文件名）
+            </summary>
+        </member>
+        <member name="F:HawkFileOperation.HawkClassHexFile.StartAdd">
+            <summary>
+            超始地址
+            </summary>
+        </member>
+        <member name="F:HawkFileOperation.HawkClassHexFile.EndAdd">
+            <summary>
+            结束地址
+            </summary>
+        </member>
+        <member name="F:HawkFileOperation.HawkClassHexFile.DataLength">
+            <summary>
+            数据长度
+            </summary>
+        </member>
+        <member name="F:HawkFileOperation.HawkClassHexFile.DebugFlag">
+            <summary>
+            Debug模式
+            </summary>
+        </member>
+        <member name="F:HawkFileOperation.HawkClassHexFile.ReadCodeNum">
+            <summary>
+            实际读取数据长度
+            </summary>
+        </member>
+        <member name="M:HawkFileOperation.HawkClassHexFile.ReadFile">
+            <summary>
+            读取文件
+            </summary>
+        </member>
+        <member name="T:HawkFileOperation.HawkClassBinFile">
+            <summary>
+            读取.bin文件
+            </summary>
+        </member>
+        <member name="F:HawkFileOperation.HawkClassBinFile.SourceFilePath">
+            <summary>
+            源文件路径（不带文件名）
+            </summary>
+        </member>
+        <member name="F:HawkFileOperation.HawkClassBinFile.DestinationFilePath">
+            <summary>
+            目的文件路径（不带文件名）
+            </summary>
+        </member>
+        <member name="F:HawkFileOperation.HawkClassBinFile.SourceFilePathWithName">
+            <summary>
+            源文件路径（带文件名）
+            </summary>
+        </member>
+        <member name="F:HawkFileOperation.HawkClassBinFile.DestinationFilePathWithName">
+            <summary>
+            目的文件路径（带文件名）
+            </summary>
+        </member>
+        <member name="F:HawkFileOperation.HawkClassBinFile.DataLength">
+            <summary>
+            数据长度
+            </summary>
+        </member>
+        <member name="M:HawkFileOperation.HawkClassBinFile.ReadFile">
+            <summary>
+            读取文件
+            </summary>
+        </member>
+        <member name="T:HawkFileOperation.HawkClassDatFile">
+            <summary>
+            读取.dat文件
+            </summary>
+        </member>
+        <member name="F:HawkFileOperation.HawkClassDatFile.SourceFilePath">
+            <summary>
+            源文件路径（不带文件名）
+            </summary>
+        </member>
+        <member name="F:HawkFileOperation.HawkClassDatFile.DestinationFilePath">
+            <summary>
+            目的文件路径（不带文件名）
+            </summary>
+        </member>
+        <member name="F:HawkFileOperation.HawkClassDatFile.SourceFilePathWithName">
+            <summary>
+            源文件路径（带文件名）
+            </summary>
+        </member>
+        <member name="F:HawkFileOperation.HawkClassDatFile.DestinationFilePathWithName">
+            <summary>
+            目的文件路径（带文件名）
+            </summary>
+        </member>
+        <member name="M:HawkFileOperation.HawkClassDatFile.ReadFile">
+            <summary>
+            读取文件
+            </summary>
+        </member>
+        <member name="T:HawkFileOperation.HawkClassTxtFile">
+            <summary>
+            读取.txt文件
+            </summary>
+        </member>
+        <member name="F:HawkFileOperation.HawkClassTxtFile.SourceFilePath">
+            <summary>
+            源文件路径（不带文件名）
+            </summary>
+        </member>
+        <member name="F:HawkFileOperation.HawkClassTxtFile.DestinationFilePath">
+            <summary>
+            目的文件路径（不带文件名）
+            </summary>
+        </member>
+        <member name="F:HawkFileOperation.HawkClassTxtFile.SourceFilePathWithName">
+            <summary>
+            源文件路径（带文件名）
+            </summary>
+        </member>
+        <member name="F:HawkFileOperation.HawkClassTxtFile.DestinationFilePathWithName">
+            <summary>
+            目的文件路径（带文件名）
+            </summary>
+        </member>
+        <member name="M:HawkFileOperation.HawkClassTxtFile.ReadFile">
+            <summary>
+            读取文件
+            </summary>
+        </member>
+        <member name="F:HawkFileOperation.HawkClassOutPutFile.DestinationFilePath">
+            <summary>
+            目的文件路径（不带文件名）
+            </summary>
+        </member>
+        <member name="F:HawkFileOperation.HawkClassOutPutFile.DebugFlag">
+            <summary>
+            Debug模式
+            </summary>
+        </member>
+        <member name="M:HawkFileOperation.HawkClassOutPutFile.OutFile(System.Byte[])">
+            <summary>
+            按指定格式输出文件
+            </summary>
+            
+        </member>
+    </members>
+</doc>
